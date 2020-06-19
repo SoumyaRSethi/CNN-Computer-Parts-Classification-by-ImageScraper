@@ -17,7 +17,7 @@ I used 100 epochs,To increase the accuracy you can increase the epochs
 
 
 Screenshots of project -
-(Webcam_predection.png)
+!image (Webcam_predection.png)
 
 Screnshot SSD predection -
 (SSD_Predection.png)
